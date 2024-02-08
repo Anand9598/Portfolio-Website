@@ -1,14 +1,14 @@
 
-Project Link--
+**Project Link**--
+
+https://portfolio-website-mu-liart-45.vercel.app/
 
 
-
-
-Here's a project description that highlights the key features and technologies used:
+**Here's a project description that highlights the key features and technologies used**:
 
 This repository showcases my personal portfolio website, built with the powerful React library to present my skills and experience in an engaging and interactive way.
 
-Key Features:
+**Key Features**:
 
 1.Sleek and modern design: Tailored with custom design elements and smooth animations for a captivating user experience.
 
@@ -19,13 +19,13 @@ Key Features:
 4.Clean and maintainable code: Adheres to best practices for readability and future modification.
 
 
-Tech Stack:
+**Tech Stack**:
 
 React
 
 HTML,CSS & Javascript
 
 
-Screenshot--
+**Screenshot**--
 
 ![image](https://github.com/Anand9598/Portfolio-Website/assets/141264098/931ce370-b1b0-44af-87d2-25ea580b8fe5)
